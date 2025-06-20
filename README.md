@@ -6,4 +6,4 @@
 </p>
 
 # Creating the Project...
-    *    composer create-project laravel/laravel ToDo
+        composer create-project laravel/laravel ToDo
