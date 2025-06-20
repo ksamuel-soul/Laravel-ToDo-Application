@@ -6,4 +6,6 @@
 </p>
 
 # Creating the Project...
-        composer create-project laravel/laravel ToDo
+
+In Command Promt
+*    composer create-project laravel/laravel ToDo
