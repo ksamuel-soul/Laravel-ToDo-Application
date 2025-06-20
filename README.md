@@ -8,7 +8,11 @@
 # Creating the Project...
 In Command Promt 
 
-        composer create-project laravel/laravel ToDo
+    composer create-project laravel/laravel <App_Name>
 For API File installing 
 
     php artisan install:api
+
+For making API Models
+
+    php artisan make:model <Model_Name> -a --api
