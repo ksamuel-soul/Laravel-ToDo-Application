@@ -28,7 +28,7 @@ For making Authentication Controllers
 
     php artisan make:controller AuthController
 
-To start the serve
+To start the server
 
     php artisan serve
 
