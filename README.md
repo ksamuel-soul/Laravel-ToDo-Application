@@ -8,4 +8,7 @@
 # Creating the Project...
 In Command Promt 
 
-        *    composer create-project laravel/laravel ToDo
+        composer create-project laravel/laravel ToDo
+For API File installing 
+
+    php artisan install:api
