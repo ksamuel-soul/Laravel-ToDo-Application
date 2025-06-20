@@ -20,6 +20,10 @@ After making the changes inside the database->migrations
 
     php artisan migrate
 
+After making the Updates in an existing migration
+
+    php artisan migrate:fresh
+
 For making Authentication Controllers 
 
     php artisan make:controller AuthController
